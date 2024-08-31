@@ -1,0 +1,145 @@
+body {
+  background-color: rgb(177, 255, 169);
+}
+.head {
+  width: 80%;
+  max-width: 830px;
+
+  background-color: rgb(160, 255, 150);
+  margin: 35px auto;
+  padding: 20px;
+  border-radius: 8px;
+}
+h1 {
+  text-align: center;
+  padding: 10px;
+}
+.form-head {
+  position: relative;
+  margin-top: -20px;
+}
+.NE {
+  margin-left: 60px;
+  margin-bottom: 40px;
+}
+.Name {
+  width: 300px;
+}
+.div-email {
+  /* margin-left: 370px;
+  position: absolute;
+  top: -48px; */
+  margin-left: 370px;
+  position: absolute;
+  top: -0px;
+}
+.Email {
+  width: 300px;
+}
+
+/* Phone Number and Gender */
+
+.GP {
+  margin-left: 60px;
+  position: relative;
+  top: -30px;
+  margin-bottom: 40px;
+}
+.div-phone {
+  margin-left: 370px;
+  position: absolute;
+  top: -1px;
+}
+.gender {
+  width: 300px;
+  position: absolute;
+}
+.Phone-num {
+  width: 300px;
+}
+.male {
+  margin-left: 30px;
+  margin-right: 10px;
+}
+
+/* Password and Address */
+
+.PA {
+  margin-left: 60px;
+  position: relative;
+  top: -60px;
+  margin-bottom: 45px;
+}
+.div-Address {
+  margin-left: 370px;
+  position: absolute;
+  top: -1px;
+}
+.Pass {
+  width: 300px;
+}
+.Add {
+  width: 300px;
+}
+
+/* City and State */
+.CS {
+  margin-left: 60px;
+  position: relative;
+  top: -93px;
+  margin-bottom: 50px;
+}
+.div-state {
+  margin-left: 370px;
+  position: absolute;
+  top: -1px;
+}
+.city {
+  width: 300px;
+}
+.state {
+  width: 300px;
+}
+
+/* Pincode and country */
+
+.PC {
+  margin-left: 60px;
+  position: relative;
+  top: -130px;
+  margin-bottom: 40px;
+}
+.div-country {
+  position: relative;
+  top: -1px;
+  margin-bottom: 50px;
+}
+.div-pin{
+  position: absolute;
+  top: 0px;
+  margin-left: 370px;
+}
+.Pin-country {
+  width: 300px;
+}
+
+/* CheckBox */
+
+.checkbox {
+  margin-left: 60px;
+  position: relative;
+  top: -140px;
+}
+.check {
+  margin-right: 20px;
+}
+
+/* Button */
+.div-btn {
+  text-align: center;
+  position: relative;
+  top: -100px;
+}
+.btn {
+  width: 200px;
+}
